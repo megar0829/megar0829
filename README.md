@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?&type=cylinder&color=ffffff&height=30&section=header&text=👋%20Hi,%20i'm%20Jeongsik%20Bae&desc=,%20a%20beginner%20developer%20🐣&fontAlign=34&fontSize=30&fontAlignY=50&fontColor=333333&descSize=20&descAlign=68&descAlignY=53&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?&type=cylinder&color=ffffff&height=50&section=header&text=👋%20Hi,%20i'm%20Jeongsik%20Bae&desc=,%20a%20beginner%20developer%20🐣&fontAlign=34&fontSize=30&fontAlignY=50&fontColor=333333&descSize=20&descAlign=68&descAlignY=53&animation=fadeIn)
 ---
 ---
 
