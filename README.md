@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?&type=slice&height=250&section=header&text=Jeongsik%20Bae&desc=Beginner%20Developer%20🐤&fontAlign=50&fontSize=90&fontAlignY=30&descSize=35&descAlign=50&descAlignY=57&theme=solarized-light)
+![header](https://capsule-render.vercel.app/api?&type=cylinder&color=ffffff&height=200&section=header&text=Jeongsik%20Bae&desc=Beginner%20Developer%20🐤&fontAlign=50&fontSize=90&fontAlignY=40&fontColor=333333&descSize=35&descAlign=52&descAlignY=75&animation=fadeIn)
 
 <h3 align="center"> growing tech stack </h3>
 <p align="center">
@@ -11,13 +11,14 @@
 
 <br/>
 
+<p align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=megar0829&show_icons=true&theme=graywhite)
 
+</p>
 <h3 align="center"> me </h3>
 <p align="center">
 <a href="https://www.instagram.com/upright__s/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/github blog-181717?style=flat&logo=Github&logoColor=white"/></a>
 <a href="https://jeongsik-developer.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a> </p>
 <br/>
-
-![footer](https://capsule-render.vercel.app/api?&type=waving&color=timeGradient&height=200&section=footer&text=Thank%20you%20for%20visiting%20my%20github&fontSize=45&fontAlignY=68)
