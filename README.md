@@ -5,6 +5,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=megar0829&show_icons=true&theme=graywhite)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megar0829&layout=compact)](https://github.com/megar0829)
+
 <br/>
 
 <h2 align="center">📖 studying tech stack 📖</h3>
@@ -23,3 +25,7 @@
 <a href="https://www.instagram.com/upright__s/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/github blog-181717?style=flat&logo=Github&logoColor=white"/></a>
 <a href="https://jeongsik-developer.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a> </p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=megar0829&repo=TIL)](https://github.com/megar0829/TIL)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=megar0829&repo=2nd-start)](https://github.com/megar0829/2nd-start)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=megar0829&repo=study-note)](https://github.com/megar0829/kdt-hypergrowth/study-note)
