@@ -26,6 +26,10 @@
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/github blog-181717?style=flat&logo=Github&logoColor=white"/></a>
 <a href="https://jeongsik-developer.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a> </p>
 
+<br/>
+
+</p><h2 align="center"> 🔗 my project 🔗 </h2>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=megar0829&repo=TIL)](https://github.com/megar0829/TIL)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=megar0829&repo=2nd-start)](https://github.com/megar0829/2nd-start)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=megar0829&repo=study-note)](https://github.com/megar0829/kdt-hypergrowth/study-note)
