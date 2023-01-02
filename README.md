@@ -5,6 +5,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=megar0829&show_icons=true&theme=graywhite)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={megar0829})](https://solved.ac/{megar0829})
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megar0829&layout=compact)](https://github.com/megar0829)
 
 <br/>
