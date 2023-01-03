@@ -3,9 +3,12 @@
 
 <br/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=megar0829)](https://solved.ac/megar0829)
-![megar0829's GitHub stats](https://github-readme-stats.vercel.app/api?username=megar0829&show_icons=true&theme=graywhite) 
-[![megar0829's github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megar0829&show_icons=true&hide_border=true&title_color=333333&icon_color=333333&layout=compact)](https://github.com/megar0829)
+<div align=center>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=megar0829)](https://solved.ac/megar0829) </div>
+<div align=left>
+
+![megar0829's GitHub stats](https://github-readme-stats.vercel.app/api?username=megar0829&show_icons=true&theme=graywhite)[![megar0829's github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megar0829&show_icons=true&hide_border=true&title_color=333333&icon_color=004386&layout=compact)](https://github.com/megar0829)
 
 <br/>
 
