@@ -31,6 +31,8 @@
 
 <br/>
 
-</p><h2 align="center"> 🔗 my project 🔗 </h2>
+</p><h2 align="center"> 🔗 my repo 🔗 </h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=megar0829&repo=TIL)](https://github.com/megar0829/TIL)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=megar0829&repo=kdt-final-team3)](https://github.com/megar0829/kdt-final-team3)
