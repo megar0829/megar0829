@@ -23,15 +23,7 @@
 
 <br/>
 
-</p><h2 align="center"> 🔗 my page 🔗 </h2>
-<p align="center">
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/github blog-181717?style=flat&logo=Github&logoColor=white"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a> </p>
-
-<br/>
-
-</p><h2 align="center"> 🔗 my repo 🔗 </h2>
+</p><h2 align="center"> 🔗 projects 🔗 </h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=megar0829&repo=TIL)](https://github.com/megar0829/TIL)
 
