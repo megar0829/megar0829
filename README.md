@@ -9,6 +9,7 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 ![megar0829's GitHub stats](https://github-readme-stats.vercel.app/api?username=megar0829&hide_title=true&show_icons=true&include_all_commits=true&theme=react)(https://github.com/megar0829)
+</div>
 <br/>
 
 <div align="center">
