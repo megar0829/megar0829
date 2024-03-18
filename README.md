@@ -8,11 +8,11 @@
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
-![megar0829's GitHub stats](https://github-readme-stats.vercel.app/api?username=megar0829&show_icons=true&theme=graywhite)
+![megar0829's GitHub stats](https://github-readme-stats.vercel.app/api?username=megar0829&hide_title=true&show_icons=true&include_all_commits=true&theme=react)(https://github.com/megar0829)
 <br/>
 
 <div align="center">
-[![megar0829's github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megar0829&hide_title=true&show_icons=true&include_all_commits=true&theme=react)](https://github.com/megar0829)
+[![megar0829's github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megar0829&show_icons=true&hide_border=true&title_color=333333&icon_color=004386&layout=compact)](https://github.com/megar0829)
 </div>
 
 <h2 align="center">📖 tech stack 📖</h3>
