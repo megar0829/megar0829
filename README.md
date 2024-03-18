@@ -3,21 +3,16 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
 <p>🌱 I’m currently interested in Front-End development, especially Next Js and TypeScript.</p>
 <p>🥅 2024 Goals : Back-End development using Spring Boot.</p>
 </div>
 
 <br/>
 
-<div align="center">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=megar0829)](https://solved.ac/megar0829) 
-</div>
-
-<br/>
-
-<div align="center">
-[![megar0829's github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megar0829&show_icons=true&hide_border=true&theme=react&layout=compact)](https://github.com/megar0829)
+<div style="display:flex">
+<a href="https://solved.ac/megar0829"><img align="center" width="100%" height="180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=megar0829" /></a> 
+<a href="https://github.com/megar0829"><img align="center"  width="100%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=megar0829&show_icons=true&hide_border=true&theme=react&layout=compact" /></a> 
 </div>
 
 <br/>
