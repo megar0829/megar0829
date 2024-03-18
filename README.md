@@ -3,28 +3,25 @@
 
 <br/>
 
-<div align=center>
-
+<div align="center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=megar0829)](https://solved.ac/megar0829) </div>
-<div align=left>
 
-![megar0829's GitHub stats](https://github-readme-stats.vercel.app/api?username=megar0829&show_icons=true&theme=graywhite)[![megar0829's github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megar0829&show_icons=true&hide_border=true&title_color=333333&icon_color=004386&layout=compact)](https://github.com/megar0829)
-
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
+![megar0829's GitHub stats](https://github-readme-stats.vercel.app/api?username=megar0829&show_icons=true&theme=graywhite)
 <br/>
 
-<h2 align="center">📖 studying tech stack 📖</h3>
+<div align="center">
+[![megar0829's github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megar0829&hide_title=true&show_icons=true&include_all_commits=true&theme=react)](https://github.com/megar0829)
+</div>
+
+<h2 align="center">📖 tech stack 📖</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML-DF0000?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp
 </p>
-
-<br/>
-
-</p><h2 align="center"> 🔗 projects 🔗 </h2>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=megar0829&repo=TIL)](https://github.com/megar0829/TIL)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=megar0829&repo=kdt-final-team3)](https://github.com/megar0829/kdt-final-team3)
